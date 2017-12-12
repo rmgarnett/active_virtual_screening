@@ -3,8 +3,9 @@ Active Virtual Screening
 
 MATLAB code to replicate experiments from
 
-    Garnett, R., Gärtner, T. Vogt, M. and Bajorath, J. (2015). Introducing the ‘active search’ method for iterative virtual screening.
-	Journal of Computer-Aided Molecular Design 29(4):305–314.
+    Garnett, R., Gärtner, T. Vogt, M. and Bajorath, J.
+	Introducing the ‘active search’ method for iterative virtual screening.
+	Journal of Computer-Aided Molecular Design, 29(4):305–314.
     DOI: 10.1007/s10822-015-9832-9
 
 Dependencies
